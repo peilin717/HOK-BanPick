@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-28",
+  "tracks": [
+    {
+      "id": "know-my-name-nelshare",
+      "name": "Know My Name · 社区伴奏版（Nelshare）",
+      "stage": "all",
+      "title": "Know My Name (ft. True Damage) - 2026 Worlds Song : Instrumental Version",
+      "url": "/media/bgm/know-my-name-instrumental.mp3",
+      "source": "https://www.youtube.com/watch?v=ej8lhd-wpEo",
+      "sourceUrl": "https://www.youtube.com/watch?v=ej8lhd-wpEo",
+      "originalSongUrl": "https://www.youtube.com/watch?v=mlFxxNsExJc",
+      "uploader": "Nelshare",
+      "uploadDate": "2026-10-09",
+      "artist": "True Damage",
+      "variant": "community-instrumental",
+      "provenance": "社区上传的完整版伴奏；上传者标注Instrumental，并指向Riot官方原曲。非官方分轨包，未独立验证人声分离方法。",
+      "duration": 212.4,
+      "durationSeconds": 212.4,
+      "bytes": 5098221,
+      "sha256": "6fe0b90a8943caf2b1f926944c7472f8224f857762eb8f73b93cf6405aac77b5",
+      "codec": "mp3",
+      "sampleRate": 48000,
+      "channels": 2,
+      "bitrate": 192023,
+      "phases": ["waiting", "ban", "pick", "lineup", "break", "decider"],
+      "verified": "ffprobe identifies stereo MP3; ffmpeg full-file decode succeeded without errors."
+    }
+  ]
+}

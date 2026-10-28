@@ -1,0 +1,8 @@
+work/
+vite-project/test-results/
+vite-project/playwright-report/
+vite-project/.test-output/
+*.tsbuildinfo
+
+__pycache__/
+*.pyc
